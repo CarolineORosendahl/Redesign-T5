@@ -1,0 +1,7 @@
+grid-container {
+  display: inline-grid;
+  display: grid;
+  column-gap: 50px;
+  gap: 20px 50px;
+  margin-left: 20px;
+}
